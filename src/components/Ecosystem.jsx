@@ -16,7 +16,6 @@ const Ecosystem = () => {
       <Container className="mt-68">
         <Row>
           <Col
-            data-aos="flip-left"
             lg={6}
             className=" d-flex justify-content-center justify-content-lg-start"
           >
@@ -26,7 +25,7 @@ const Ecosystem = () => {
               className=" w-100 Newspaper"
             />
           </Col>
-          <Col data-aos="flip-right" lg={6} className="mt-5 mt-lg-0">
+          <Col lg={6} className="mt-5 mt-lg-0">
             <div className="text-center text-lg-start">
               <div className=" d-lg-flex align-items-center gap-xl-4 gap-3 mb-13 d-none">
                 <a
