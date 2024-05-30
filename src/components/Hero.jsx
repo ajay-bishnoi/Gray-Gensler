@@ -20,7 +20,7 @@ const Hero = () => {
   };
   return (
     <>
-      <div data-aos="zoom-in" className="py-136-128 position-relative z-3">
+      <div className="py-136-128 position-relative z-3">
         <Container>
           <div className="max-w-538">
             <h1 className="mb-0 ff-inter fw-900 fs-108 lh-130 clr-white">

@@ -17,9 +17,9 @@ const NavBar = () => {
   }, [show]);
   return (
     <>
-      <Nav className="Nav-pt-35" data-aos="fade-down">
+      <Nav className="Nav-pt-35">
         <Container>
-          <div className=" d-flex justify-content-between align-items-center">
+          <div className=" d-flex justify-content-between ff-inter align-items-center">
             <h3 className="mb-0 fw-900 fs-40 lh-48 clr-white pointer">
               Gxxx Gxxxxxx
             </h3>
